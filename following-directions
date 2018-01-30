@@ -1,0 +1,32 @@
+{
+  "Here are some quotates for the game I am allegedly building":
+  [
+    
+    {
+      "version number" : 5,
+      "buffs" : "Medic now has a minigun",
+      "nerfs" : "lol see ya Spy, you're down the competitive meta drain",
+      "mechanical changes" : "We have moved the realm at which this game exists.  Temporarily."
+      
+    },
+  
+  {
+      "version number" : 2,
+      "buffs": "Medic now has TWO miniguns",
+      "nerfs": "lol see ya Sniper, you're down the metaphorical virtual drain",
+      "mechanical changes": "We fixed the game again"
+      
+    },
+    
+    {
+      "version number" : 1,
+      "buffs": "Medic now has admin mode enabled",
+      "nerfs": "lol see ya [insert game name here], you're down the e-sport drain",
+      "mechanical changes": "We killed this game",
+      "image": "https://goo.gl/images/6tG9zH"
+      
+    }
+  
+  ]
+
+}
